@@ -8,4 +8,8 @@ public class CalculatorService {
         return a + b;
         //with comment 2nd commit
     }
+    //subtract method in 3rd commit
+    public int subtract(int a, int b) {
+        return a - b;
+    }
 }
